@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0b40df9df6b4641b860a7b236a18f6, type: 3}
+  m_Name: LettersDataContent
+  m_EditorClassIdentifier: 
+  _cardsContent:
+  - sprite: {fileID: -1233305803, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: A
+  - sprite: {fileID: 1608450955, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: B
+  - sprite: {fileID: 1396502701, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: C
+  - sprite: {fileID: 1768060823, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: D
+  - sprite: {fileID: 2083399922, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: E
+  - sprite: {fileID: -1574854913, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: F
+  - sprite: {fileID: 473710596, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: G
+  - sprite: {fileID: 60126757, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: H
+  - sprite: {fileID: -113531617, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: I
+  - sprite: {fileID: 1326987369, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: J
+  - sprite: {fileID: 1663503009, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: K
+  - sprite: {fileID: 1532686434, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: L
+  - sprite: {fileID: -1822817549, guid: 0cd1702e232417e4f9d9698b78972b5f, type: 3}
+    CallName: M
+  - sprite: {fileID: -1958263277, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: N
+  - sprite: {fileID: -1984392739, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: O
+  - sprite: {fileID: 629524761, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: P
+  - sprite: {fileID: 1967773947, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: Q
+  - sprite: {fileID: -1720728742, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: R
+  - sprite: {fileID: 1076272813, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: S
+  - sprite: {fileID: -2040997009, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: T
+  - sprite: {fileID: -309546595, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: U
+  - sprite: {fileID: -2118306496, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: V
+  - sprite: {fileID: -1229270745, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: W
+  - sprite: {fileID: 916299618, guid: 1e51c01c9c09185408b75e089cd70a2b, type: 3}
+    CallName: X
+  - sprite: {fileID: -1410861634, guid: e5a59d5676981e34c9dfc6e132ae6016, type: 3}
+    CallName: Y
+  - sprite: {fileID: 341076674, guid: e5a59d5676981e34c9dfc6e132ae6016, type: 3}
+    CallName: Z

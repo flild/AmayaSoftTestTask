@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0b40df9df6b4641b860a7b236a18f6, type: 3}
+  m_Name: NumbersData
+  m_EditorClassIdentifier: 
+  _cardsContent:
+  - sprite: {fileID: -530139140, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 1
+  - sprite: {fileID: 91887785, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 2
+  - sprite: {fileID: 1369895503, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 3
+  - sprite: {fileID: 1905356038, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 4
+  - sprite: {fileID: -1863862921, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 5
+  - sprite: {fileID: 541909111, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 6
+  - sprite: {fileID: 205736241, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 7
+  - sprite: {fileID: 306195175, guid: ae22cb2a1442c094d906e7410d97d838, type: 3}
+    CallName: 8
+  - sprite: {fileID: 21300000, guid: 5e6ddc8e70d3bfd44aa2a558ca21b6b8, type: 3}
+    CallName: 9
+  - sprite: {fileID: 21300000, guid: 20e1a5823ffe66f4da9d08df4b98b5cc, type: 3}
+    CallName: 10
